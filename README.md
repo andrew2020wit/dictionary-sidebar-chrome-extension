@@ -33,6 +33,23 @@ https://andrew2020wit.github.io/foreign-reader/dictionary-viewer?hideInput=true&
 
 https://github.com/andrew2020wit/foreign-reader
 
+## Foreign reader dictionary
+
+It was created to use with [Foreign reader dictionary](https://github.com/andrew2020wit/foreign-reader).
+
+To use "Foreign reader dictionary" you have to import json dictionary.
+
+You can use simple dictionary from here:
+
+[https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary](https://github.com/andrew2020wit/foreign-reader/tree/master/dictionary)
+
+- main-dictionary: wordset-with-tr.json
+- any way you also have to import morphology.json and morphology-replace-rules.json (see folder above)
+
+You can also create json-dictionary based on Cambridge Advanced Learner's Dictionary 4th, mdx format:
+
+[Convert mdx-dictionary to json-dictionary](https://github.com/andrew2020wit/cald-mdx-to-json)
+
 ## Licence
 
 MIT. It's free to use.
