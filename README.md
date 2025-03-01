@@ -50,6 +50,10 @@ You can also create json-dictionary based on Cambridge Advanced Learner's Dictio
 
 [Convert mdx-dictionary to json-dictionary](https://github.com/andrew2020wit/cald-mdx-to-json)
 
+## Load an unpacked extension
+
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+
 ## Licence
 
 MIT. It's free to use.
