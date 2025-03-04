@@ -1,6 +1,6 @@
 {
   "name": "One click side panel dictionary",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "manifest_version": 3,
   "description": "One click side panel dictionary (Chrome extension)",
   "options_page": "src/settings/settings.html",
@@ -30,5 +30,5 @@
   "side_panel": {
     "default_path": "src/sidepanel/sidepanel.html"
   },
-  "permissions": ["tabs", "sidePanel", "contextMenus", "storage"]
+  "permissions": ["sidePanel", "storage"]
 }
