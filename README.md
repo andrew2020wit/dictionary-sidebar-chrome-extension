@@ -1,5 +1,7 @@
 # One click side panel dictionary (Chrome extension)
 
+[https://chromewebstore.google.com/detail/one-click-side-panel-dict/bihbnoacpbepagocdgpghehbdeacdfjh](https://chromewebstore.google.com/detail/one-click-side-panel-dict/bihbnoacpbepagocdgpghehbdeacdfjh)
+
 ## Description
 
 If you turn on this extension then you have just click on a word to see the dictionary for this word.
